@@ -2,5 +2,5 @@
  font-family: ScaryFont;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url(https://rawcdn.githack.com/oaster2000/scary-font-worldanvil/0090c38d330d67214e3e2f8698fcba00bdac70c3/ScaryFont-Regular.ttf) ;
 }
